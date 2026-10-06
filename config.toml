@@ -2,8 +2,8 @@
 reload_apps = true
 
 [templates.topbar]
-input_path = "~/.config/matugen/templates/Colors.qml"
-output_path = "~/.config/topbar/common/ThemeColors.qml"
+input_path = "~/.config/matugen/templates/topbar-colors.json"
+output_path = "~/.config/topbar/common/theme-colors.json"
 
 [templates.kitty]
 input_path = "~/.config/matugen/templates/kitty.conf"
