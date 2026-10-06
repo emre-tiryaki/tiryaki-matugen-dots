@@ -1,0 +1,18 @@
+[config]
+reload_apps = true
+
+[templates.topbar]
+input_path = "~/.config/matugen/templates/Colors.qml"
+output_path = "~/.config/topbar/common/ThemeColors.qml"
+
+[templates.kitty]
+input_path = "~/.config/matugen/templates/kitty.conf"
+output_path = "~/.config/kitty/theme.conf"
+
+[templates.hyprland]
+input_path = "~/.config/matugen/templates/hyprland.lua"
+output_path = "~/.config/hypr/conf/hyprland/colors.lua"
+
+[templates.hyprlock]
+input_path = "~/.config/matugen/templates/hyprlock.conf"
+output_path = "~/.config/hypr/hyprlock.conf"
