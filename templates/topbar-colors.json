@@ -22,6 +22,9 @@
   "soundMuted": "{{colors.outline.default.hex}}",
   "bluetoothActive": "{{colors.primary.default.hex}}",
   "bluetoothDisabled": "{{colors.outline.default.hex}}",
+  "batteryCharging": "{{colors.tertiary.default.hex}}",
+  "batteryLow": "{{colors.error.default.hex}}",
+  "batteryNormal": "{{colors.primary.default.hex}}",
   "surfaceOpacity": 0.92,
   "borderOpacity": 0.55
 }

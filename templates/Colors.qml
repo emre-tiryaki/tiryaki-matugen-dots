@@ -41,6 +41,10 @@ QtObject {
     property color bluetoothActive: "{{colors.primary.default.hex}}"
     property color bluetoothDisabled: "{{colors.outline.default.hex}}"
 
+    property color batteryCharging: "{{colors.tertiary.default.hex}}"
+    property color batteryLow: "{{colors.error.default.hex}}"
+    property color batteryNormal: "{{colors.primary.default.hex}}"
+
     property real surfaceOpacity: 0.92
     property real borderOpacity: 0.55
 }
